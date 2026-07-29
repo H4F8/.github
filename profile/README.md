@@ -49,13 +49,12 @@ Our mission is to build tools that make development easier and more accessible f
 </div>
 
 ---
-
 ### 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/H4F8">
-    <img src="https://github-stats-extended.vercel.app/api?username=H4F8&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&include_all_commits=true" height="170" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=H4F8&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=H4F8&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&include_all_commits=true" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4F8&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170" />
   </a>
 </div>
 
@@ -64,8 +63,6 @@ Our mission is to build tools that make development easier and more accessible f
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4F8&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
-
----
 
 ### 🎯 Current Focus
 
