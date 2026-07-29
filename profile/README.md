@@ -49,13 +49,6 @@ Our mission is to build tools that make development easier and more accessible f
 </div>
 
 ---
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/H4F8?template=classic&base.header=0&base.metadata=0&is_org=true" />
-</div>
-
----
 
 ### 🎯 Current Focus
 
