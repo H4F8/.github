@@ -72,14 +72,6 @@ Our mission is to build tools that make development easier and more accessible f
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=H4F8&theme=onedark&no-frame=true&row=2&column=4" />
-</div>
-
----
-
 ### 💻 Tech Stack Details
 
 <div align="center">
